@@ -272,7 +272,7 @@ export default function Projects() {
                       </a>
                       <a
                         href={
-                          ""
+                          "https://shreya-singh-portfolio.vercel.app/"
                         }
                         target="_blank"
                         rel="noreferrer"
