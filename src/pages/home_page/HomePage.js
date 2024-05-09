@@ -14,7 +14,7 @@ import Toolkit from "../../components/aboutme/skills/Toolkit";
 import ExperienceJourney from "../../components/aboutme/journey/ExperienceJourney";
 import EducationJourney from "../../components/aboutme/journey/EducationJourney";
 import Button from "react-bootstrap/Button";
-import pdf from "../../assets/Shreya_singh_CV.pdf";
+import pdf from "../../assets/Shreya_singh_tech_resume.pdf";
 import { AiOutlineDownload } from "react-icons/ai";
 
 export default function Home() {
